@@ -93,7 +93,7 @@ This section will contain sanitized sample reports demonstrating my approach to 
 
 - [Web Application VAPT Report](Sample%20-%20Reports/Web-VAPT-Report.pdf)
 - [API Security Assessment Report](Sample%20-%20Reports/API-VAPT-Report.pdf)
-- [Mobile Application VAPT Report](Sample%20-%20Reports).
+- [Mobile Application VAPT Report](Sample%20-%20Reports)
 
 ## Training & Learning 📚
 
