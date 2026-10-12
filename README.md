@@ -61,7 +61,7 @@ I am continuously improving my technical skills and expanding my knowledge of mo
 - Input validation and access control assessment.
 - Vulnerability impact analysis and remediation guidance.
 
-[View Project](Projects/Web-Application-VAPT/)
+[View Project](Projects/Web%20-%20Application%20-%20VAPT/)
 
 ### 2. API Security Testing
 
