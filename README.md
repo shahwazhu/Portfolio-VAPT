@@ -117,7 +117,7 @@ I use this section to document security research, technical write-ups, lessons l
 
 ## Resume
 
-📄 [View My Resume](ProfessionalCV/Resume.pdf)
+📄 [View My Resume](Professional CV/Resume.pdf)
 
 ## Seeking Opportunities 🌟
 
