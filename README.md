@@ -61,8 +61,8 @@ I am continuously improving my technical skills and expanding my knowledge of mo
 - Authentication, authorization, and session management testing.
 - Input validation and access control assessment.
 - Vulnerability impact analysis and remediation guidance.
-
-[View Project](Projects/Web%20-%20Application%20-%20VAPT/)
+<!--
+[View Project](Projects/Web%20-%20Application%20-%20VAPT/)  -->
 
 ### 2. API Security Testing
 
@@ -72,8 +72,8 @@ I am continuously improving my technical skills and expanding my knowledge of mo
 - Request and parameter manipulation.
 - Access control and business logic assessment.
 - Security observations and remediation documentation.
-
-[View Project](Projects/API%20-%20VAPT/)
+<!--
+[View Project](Projects/API%20-%20VAPT/)  -->
 
 ### 3. Android Application VAPT
 
@@ -83,17 +83,17 @@ I am continuously improving my technical skills and expanding my knowledge of mo
 - Authentication and session handling assessment.
 - Network communication and API interaction testing.
 - Security findings and mitigation recommendations.
-
-[View Project](Projects/Mobile%20-%20Application%20-%20VAPT/)
-
-
+<!--
+[View Project](Projects/Mobile%20-%20Application%20-%20VAPT/) 
+-->
+<!--
 ## Sample VAPT Reports 📄
 
 This section will contain sanitized sample reports demonstrating my approach to documenting vulnerabilities, assessing impact, and recommending fixes.
 
 - [Web Application VAPT Report](Sample%20-%20Reports/Web-VAPT-Report.pdf)
 - [API Security Assessment Report](Sample%20-%20Reports/API-VAPT-Report.pdf)
-- [Mobile Application VAPT Report](Sample%20-%20Reports)
+- [Mobile Application VAPT Report](Sample%20-%20Reports)   -->
 
 ## Training & Learning 📚
 
@@ -102,13 +102,14 @@ This section will contain sanitized sample reports demonstrating my approach to 
 - Android application security testing
 - OWASP testing methodologies
 - Vulnerability analysis and professional reporting
-
+<!--
 ## White Papers & Research 📝
 
 I use this section to document security research, technical write-ups, lessons learned, and practical findings from authorized labs.
 
 - [Security Write-ups](Research/)
 - [Testing Notes and Resources](Notes/)
+-->
 
 ## Education 🎓
 
