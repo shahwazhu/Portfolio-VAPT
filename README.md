@@ -72,7 +72,7 @@ I am continuously improving my technical skills and expanding my knowledge of mo
 - Access control and business logic assessment.
 - Security observations and remediation documentation.
 
-[View Project](Projects/API-VAPT/)
+[View Project](Projects/API%20-%20VAPT/)
 
 ### 3. Android Application VAPT
 
@@ -83,7 +83,7 @@ I am continuously improving my technical skills and expanding my knowledge of mo
 - Network communication and API interaction testing.
 - Security findings and mitigation recommendations.
 
-[View Project](Projects/Mobile-Application-VAPT/)
+[View Project](Projects/Mobile%20-%20Application%20-%20VAPT/)
 
 *Add project evidence and reports only when you have completed the work. Clearly label labs and practice assessments.*
 
@@ -91,7 +91,7 @@ I am continuously improving my technical skills and expanding my knowledge of mo
 
 This section will contain sanitized sample reports demonstrating my approach to documenting vulnerabilities, assessing impact, and recommending fixes.
 
-- [Web Application VAPT Report](Sample-Reports/Web-VAPT-Report.pdf)
+- [Web Application VAPT Report](Sample%20-%20Reports/Web%20-%20VAPT-Report.pdf)
 - [API Security Assessment Report](Sample-Reports/API-VAPT-Report.pdf)
 
 ## Training & Learning 📚
