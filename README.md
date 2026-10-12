@@ -39,9 +39,9 @@ I am continuously improving my technical skills and expanding my knowledge of mo
 ## Professional Experience 💼
 
 ### Security Analyst / VAPT Professional
-- Net-Square Solutions Private Limited 
-- May 2022 - September 2025
-- Remote, Ahmedabad, India.
+<p>Net-Square Solutions Private Limited</p>
+<p></p>May 2022 - September 2025</p>
+<p></p>Remote, Ahmedabad, India.</p>
 
 - Conducted web application and Android application security assessments.
 - Tested applications for common security vulnerabilities and technology-specific weaknesses.
