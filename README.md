@@ -91,8 +91,9 @@ I am continuously improving my technical skills and expanding my knowledge of mo
 
 This section will contain sanitized sample reports demonstrating my approach to documenting vulnerabilities, assessing impact, and recommending fixes.
 
-- [Web Application VAPT Report](Sample%20-%20Reports/Web%20-%20VAPT-Report.pdf)
-- [API Security Assessment Report](Sample-Reports/API-VAPT-Report.pdf)
+- [Web Application VAPT Report](Sample%20-%20Reports/Web-VAPT-Report.pdf)
+- [API Security Assessment Report](Sample%20-%20Reports/API-VAPT-Report.pdf)
+- [Mobile Application VAPT Report](Sample%20-%20Reports).
 
 ## Training & Learning 📚
 
@@ -117,7 +118,7 @@ I use this section to document security research, technical write-ups, lessons l
 
 ## Resume
 
-📄 [View My Resume](Professional CV/Resume.pdf)
+📄 [View My Resume](Professional%20CV/ShahwazHussain_CV.pdf)
 
 ## Seeking Opportunities 🌟
 
