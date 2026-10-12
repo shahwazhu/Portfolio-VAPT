@@ -35,7 +35,6 @@ I am continuously improving my technical skills and expanding my knowledge of mo
 
 - NSCE - Net-Square Cybersecurity Expert Programe 
 
-*Only list certifications you have actually earned.*
 
 ## Professional Experience 💼
 
@@ -48,7 +47,6 @@ I am continuously improving my technical skills and expanding my knowledge of mo
 - Documented findings with evidence, impact, severity, and remediation guidance.
 - Prepared professional penetration testing reports for technical and business stakeholders.
 
-*Update the job title, employer, dates, and responsibilities to match your actual employment history.*
 
 ## Projects 🔬
 
@@ -85,7 +83,6 @@ I am continuously improving my technical skills and expanding my knowledge of mo
 
 [View Project](Projects/Mobile%20-%20Application%20-%20VAPT/)
 
-*Add project evidence and reports only when you have completed the work. Clearly label labs and practice assessments.*
 
 ## Sample VAPT Reports 📄
 
