@@ -26,8 +26,8 @@ I am continuously improving my technical skills and expanding my knowledge of mo
 - **Web Application Security:** Manual security testing, vulnerability validation, business logic testing
 - **API Security:** API assessment, request manipulation, authentication and authorization testing
 - **Mobile Security:** Android application VAPT
-- **Security Methodologies:** OWASP Top 10, OWASP ASVS
-- **Tools:** Burp Suite, Postman, Kali Linux
+- **Security Methodologies:** OWASP Top 10 security recommendations. Black Box and Gray Box 📦 security assessments.
+- **Tools:** Burp Suite, Metasploit, Nmap, Sqlmap, Postman, Nessus Scan, testssl, Wireshark, Kali Linux, VirtualBox Virtualization.
 - **Reporting:** Vulnerability documentation, risk assessment, remediation recommendations
 - **Other Areas:** HTTP analysis, session management, access control testing
 
