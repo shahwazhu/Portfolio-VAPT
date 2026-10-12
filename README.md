@@ -35,7 +35,7 @@ I am continuously improving my technical skills and expanding my knowledge of mo
 
 - NSCE - Net-Square Cybersecurity Expert Programe 
 
-[View My Credential](Certifications/ShahwazHussain.pdf/)
+[View My Credential](Certifications/Shahwaz_NSCE.pdf/)
 
 ## Professional Experience 💼
 
