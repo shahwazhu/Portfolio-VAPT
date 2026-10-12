@@ -7,7 +7,7 @@
 
 <h1 align="center">Shahwaz Hussain</h1>
 
-<h3 align="center">Application Security | VAPT | Cybersecurity Consultant</h3>
+<h3 align="center">Security Analyst | VAPT | Cybersecurity Consultant</h3>
 
 ## Welcome! 👋
 
