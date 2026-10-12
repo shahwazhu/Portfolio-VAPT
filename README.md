@@ -5,9 +5,9 @@
        width="100%">
 </p>
 
-<h1 align="center">Shahwaz Hussain's Portfolio</h1>
+<h1 align="center">Shahwaz Hussain</h1>
 
-<h3 align="center">Application Security | VAPT | Cybersecurity</h3>
+<h3 align="center">Application Security | VAPT | Cybersecurity Consultant</h3>
 
 ## Welcome! 👋
 
